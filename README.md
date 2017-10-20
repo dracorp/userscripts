@@ -20,10 +20,10 @@ Various userscripts
 |Userscript wiki|Direct<br>install|
 |---------------|:---------------:|
 |[joemonster key navigation][jkn-wiki]|[install][jkn-raw]|
-|[sjp.pl focus][sjp-wiki]|[install][sjp-raw]|
+|[sjp.pl][sjp-wiki]|[install][sjp-raw]|
 
-[jkn-wiki]: wiki/joemonster-key-navigation
-[jkn-raw]: raw/master/joemonster-key-navigation.user.js
+[jkn-wiki]: //github.com/dracorp/userscripts/wiki/joemonster-key-navigation
+[jkn-raw]: //github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
 
-[sjp-wiki]: wiki/sjp
-[sjp-raw]: raw/master/sjp.user.js
+[sjp-wiki]: //github.com/dracorp/userscripts/wiki/sjp
+[sjp-raw]: //github.com/dracorp/userscripts/raw/master/sjp.user.js
