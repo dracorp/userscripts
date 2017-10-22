@@ -4,12 +4,16 @@
 // @include     http://joemonster.org/mg/*
 // @include     http://joemonster.org/filmy/*
 // @include     http://joemonster.org/art/*
-// @version     0.1
+// @version     2
 // @grant       none
 // @require     https://code.jquery.com/jquery-2.1.1.min.js
-// vim: syntax=jquery
+// @updateURL   https://github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
+
+// @downloadURL https://github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
+
+// @supportURL  https://github.com/dracorp/userscripts/issues
 // ==/UserScript==
-//
+
 (function($){
     "use strict";
     $.log = function(msg) {
