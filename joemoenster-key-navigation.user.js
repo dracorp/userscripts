@@ -8,9 +8,7 @@
 // @grant       none
 // @require     https://code.jquery.com/jquery-2.1.1.min.js
 // @updateURL   https://github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
-
 // @downloadURL https://github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
-
 // @supportURL  https://github.com/dracorp/userscripts/issues
 // ==/UserScript==
 
