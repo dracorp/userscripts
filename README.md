@@ -19,8 +19,12 @@ Various userscripts
 
 |Userscript wiki|Direct<br>install|
 |---------------|:---------------:|
-|[joemonster key navigation][jkn-wiki]|[install][jkn-raw]|
-|[sjp.pl][sjp-wiki]|[install][sjp-raw]|
+| [joemonster key navigation][jkn-wiki] | [install][jkn-raw] |
+| [sjp.pl][sjp-wiki] | [install][sjp-raw] |
+| [Netflix default account][naa-wiki] | [install][naa-raw] |
+
+[naa-raw]: //github.com/dracorp/userscripts/raw/master/netflix_auto_account.user.js
+[naa-wiki]: //github.com/dracorp/userscripts/wiki/netflix_auto_account.user.js
 
 [jkn-wiki]: //github.com/dracorp/userscripts/wiki/joemonster-key-navigation
 [jkn-raw]: //github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
