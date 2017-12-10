@@ -24,7 +24,7 @@ Various userscripts
 | [Netflix default account][naa-wiki] | [install][naa-raw] |
 
 [naa-raw]: //github.com/dracorp/userscripts/raw/master/netflix_auto_account.user.js
-[naa-wiki]: //github.com/dracorp/userscripts/wiki/netflix_auto_account
+[naa-wiki]: //github.com/dracorp/userscripts/wiki/netflix-auto-account
 
 [jkn-wiki]: //github.com/dracorp/userscripts/wiki/joemonster-key-navigation
 [jkn-raw]: //github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
