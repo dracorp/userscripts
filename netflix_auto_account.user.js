@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Netflix Default Account
 // @namespace       https://github.com/dracorp/userscripts
-// @version         0.2
+// @version         0.3
 // @description     Auto select a profile for Netflix
 // @description:pl  Auto wybór profilu dla Netflixa
 // @author          dracorp
