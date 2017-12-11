@@ -22,7 +22,7 @@
 
     // Add GM options
 	GM_registerMenuCommand("Set Netflix profile", () => {
-		const value = prompt("Set name for auto select profile for Netflix:");
+		const value = prompt("Set name for auto select profile for Netflix:", profileName);
 		if (value !== null) {
 			GM_setValue("netflix-profile-name", value);
 			console.log('Netflix default profile will set to '+value);
