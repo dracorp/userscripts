@@ -11,6 +11,7 @@
 // @downloadURL https://github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
 // @supportURL  https://github.com/dracorp/userscripts/issues
 // @icon        http://joemonster.org/favicon.ico
+// @license     LGPL-3.0
 // ==/UserScript==
 
 (function($){
