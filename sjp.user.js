@@ -13,6 +13,7 @@
 // @downloadURL    https://github.com/dracorp/userscripts/raw/master/sjp.user.js
 // @supportURL     https://github.com/dracorp/userscripts/issues
 // @icon           https://raw.githubusercontent.com/dracorp/userscripts/master/images/sjp.png
+// @license        LGPL-3.0
 // ==/UserScript==
 
 (function() {
