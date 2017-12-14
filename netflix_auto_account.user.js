@@ -15,6 +15,7 @@
 // @downloadURL     https://github.com/dracorp/userscripts/raw/master/netflix_auto_account.user.js
 // @icon            https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico
 // @supportURL      https://github.com/dracorp/userscripts/issues
+// @license         LGPL-3.0
 // ==/UserScript==
 
 (function() {
