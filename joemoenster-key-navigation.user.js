@@ -1,10 +1,8 @@
 // ==UserScript==
 // @name        joemonster.org key navigation
 // @namespace   dracorp.pl
-// @include     http://joemonster.org/mg/*
-// @include     http://joemonster.org/filmy/*
-// @include     http://joemonster.org/art/*
-// @version     2
+// @include     /^https?://joemonster\.org/(art|filmy|mg)/.*/
+// @version     3
 // @grant       none
 // @require     https://code.jquery.com/jquery-2.1.1.min.js
 // @updateURL   https://github.com/dracorp/userscripts/raw/master/joemoenster-key-navigation.user.js
@@ -35,7 +33,7 @@ $(document).keydown( function(e){
     var key = e.which;
     var pathname = $(location).attr("pathname").split("/")[1];
 
-    $.log(key);
+    //$.log(key);
     //key.log();
     if(pathname === "filmy"){
         switch(key){
